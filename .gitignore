@@ -1,4 +1,4 @@
-./patientor/node_modules
-./patientor-backend/node_modules
-./bmi-app/node_modules
-./react-ts-app/node_modules
+./patientor/node_modules/
+./patientor-backend/node_modules/
+./bmi-app/node_modules/
+./react-ts-app/node_modules/
